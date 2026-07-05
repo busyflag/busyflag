@@ -98,7 +98,7 @@
 
 > *"Humans, like systems, can be predicted."*
 
-I'm fascinated by the intersection of **Eastern metaphysics**  and **systems science** — where ancient wisdom meets modern complexity theory. Whether it's predicting particle trajectories in physics or life patterns through the lens of destiny, I believe everything follows underlying rules.
+I'm fascinated by the intersection of **Eastern metaphysics**  and **control science** — where ancient wisdom meets modern complexity theory. Whether it's predicting particle trajectories in physics or life patterns through the lens of destiny, I believe everything follows underlying rules.
 
 -  High-intensity research is just another stress test — I treat it like debugging a stubborn system
 -  From soldering circuits to tuning SLAM parameters — if it has inputs and outputs, I want to understand it
@@ -108,6 +108,6 @@ I'm fascinated by the intersection of **Eastern metaphysics**  and **systems sci
 
 <div align="center">
 
-⭐ *Open to interesting collaborations and  discussions about systems, robotic, or UAVs*
+⭐ *Open to interesting collaborations and  discussions about control, robotic, or UAVs*
 
 </div>
