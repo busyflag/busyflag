@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Wang Yue (王玥)
+# 👋 Hello, I'm  Yue Wang(王玥)
 
 <div align="center">
 
