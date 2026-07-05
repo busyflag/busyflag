@@ -46,10 +46,9 @@
 ## 📄 Publications
 
 ### Published
-1. **Wang Yue**, et al. "Optimization of Ultrasonic Flowmeter Velocity Algorithm Under Different Flow Regimes." *Journal of Electronic Measurement and Instrumentation* (EI, Chinese Core). DOI: 10.13382/j.jemi.B2508365 — First Author
+1. **Wang Yue**, et al. "Optimization of Ultrasonic Flowmeter Velocity Algorithm Under Different Flow Regimes." *Journal of Electronic Measurement and Instrumentation* — First Author (EI, Chinese Core). DOI: 10.13382/j.jemi.B2508365 
 
-### Accepted
-2. **Wang Yue**, et al. "Improved Equations for Core Loss Prediction Under Asymmetric Triangular Excitation Waveforms Based on Improved Generalized Steinmetz Equation." *Journal of Magnetism and Magnetic Materials* (SCI Q3, IF: 3.0). DOI: 10.1016/j.jmmm.2026.174052 — First Author
+2. **Wang Yue**, et al. "Improved Equations for Core Loss Prediction Under Asymmetric Triangular Excitation Waveforms Based on Improved Generalized Steinmetz Equation." *Journal of Magnetism and Magnetic Materials* — First Author (SCI Q3, IF: 3.0). DOI: 10.1016/j.jmmm.2026.174052 
 
 ### Patent
 3. **Wang Yue**, et al. "Profibus-DP Ultrasonic Flowmeter and Flow Calculation Method Based on Domestic Communication Chip" (Under Substantive Examination) — First Author
