@@ -34,7 +34,7 @@
 
 ### 🥈 Provincial-Level Awards
 - Mathematical Contest in Modeling (China) — Second Prize
-- MCM/ICM — **H Price (Honorable Mention)**
+- MCM/ICM — H Price (Honorable Mention)
 - Blue Bridge Cup (Embedded) — Second Prize
 - National IC Innovation & Entrepreneurship Contest — Third Prize
 - National Statistical Modeling Contest — Third Prize
