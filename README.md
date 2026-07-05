@@ -8,7 +8,7 @@
 
 📍 Yangzhou University, China | Class of 2023
 
-📧 [233302124@stu.yzu.edu.cn / 2574414382@qq.com](mailto:233302124@stu.yzu.edu.cn) | 📱 WeChat: 15209428901
+📧 [233302124@stu.yzu.edu.cn / 2574414382@qq.com](mailto:2574414382@qq.com) 
 
 </div>
 
