@@ -98,7 +98,7 @@
 
 > *"Humans, like systems, can be predicted."*
 
-I'm fascinated by the intersection of **Eastern metaphysics**  and **Control science** — where ancient wisdom meets modern complexity theory. Whether it's predicting particle trajectories in physics or life patterns through the lens of destiny, I believe everything follows underlying rules.
+I'm fascinated by the intersection of **Eastern metaphysics**  and **Control science** — where ancient wisdom meets modern complexity theory. Whether it's predicting steady-state behavior in control systems or life patterns through the lens of destiny, I believe everything follows underlying rules.
 
 -  High-intensity research is just another stress test — I treat it like debugging a stubborn system
 -  From soldering circuits to tuning SLAM parameters — if it has inputs and outputs, I want to understand it
