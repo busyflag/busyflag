@@ -46,7 +46,6 @@
 ## 📄 Publications
 
 ### Published
-### Published & Accepted Papers
 
 1. **Wang Yue**, et al. "Optimization of Ultrasonic Flowmeter Velocity Algorithm Under Different Flow Regimes." *Journal of Electronic Measurement and Instrumentation* — First Author (EI, Chinese Core). [📄 Paper](https://github.com/busyflag/Optimisation-of-flow-rate-algorithms-for-ultrasonic-flow-meters-in-different-flow-regimes) | DOI: 10.13382/j.jemi.B2508365
 
