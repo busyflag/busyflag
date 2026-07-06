@@ -32,13 +32,13 @@
 | RoboCup China Open | **National Third Prize** ×2 (UAV Racing) |
 | National Embedded Chip & System Design Contest | **National Third Prize** (Battery Balancing) |
 
-### 🥈 Provincial-Level Awards
+### 🥈 Provincial-Level Awards (Team Leader)
 - Mathematical Contest in Modeling (China) — Second Prize
 - MCM/ICM — H Price (Honorable Mention)
 - Blue Bridge Cup (Embedded) — Second Prize
 - National IC Innovation & Entrepreneurship Contest — Third Prize
 - National Statistical Modeling Contest — Third Prize
-- National Optoelectronic Design Contest — Second Prize
+- National Optoelectronic Design Contest — Second Prize (Core members)
 - Etc
 
 ---
