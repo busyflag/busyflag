@@ -109,6 +109,6 @@ I'm fascinated by the intersection of **Eastern metaphysics**  and **Control sci
 
 <div align="center">
 
-⭐ *Open to interesting collaborations and  discussions about control, robotic, or UAVs*
+⭐ *Open to interesting collaborations and  discussions about control, robotics, or UAVs*
 
 </div>
