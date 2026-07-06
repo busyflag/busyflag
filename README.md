@@ -47,12 +47,12 @@
 
 ### Published
 
-1. **Wang Yue**, et al. "Optimization of Ultrasonic Flowmeter Velocity Algorithm Under Different Flow Regimes." *Journal of Electronic Measurement and Instrumentation* — First Author (EI, Chinese Core). [📄 Paper](https://github.com/busyflag/Optimisation-of-flow-rate-algorithms-for-ultrasonic-flow-meters-in-different-flow-regimes) | DOI: 10.13382/j.jemi.B2508365
+1. **Yue Wang**, et al. "Optimization of Ultrasonic Flowmeter Velocity Algorithm Under Different Flow Regimes." *Journal of Electronic Measurement and Instrumentation* — First Author (EI, Chinese Core). [📄 Paper](https://github.com/busyflag/Optimisation-of-flow-rate-algorithms-for-ultrasonic-flow-meters-in-different-flow-regimes) | DOI: 10.13382/j.jemi.B2508365
 
-2. **Wang Yue**, et al. "Improved Equations for Core Loss Prediction Under Asymmetric Triangular Excitation Waveforms Based on Improved Generalized Steinmetz Equation." *Journal of Magnetism and Magnetic Materials* — First Author (SCI Q3, IF: 3.0). [📄 Paper](https://github.com/busyflag/Improved-equations-for-core-loss-prediction-under-asymmetric-triangular) | DOI: 10.1016/j.jmmm.2026.174052
+2. **Yue Wang**, et al. "Improved Equations for Core Loss Prediction Under Asymmetric Triangular Excitation Waveforms Based on Improved Generalized Steinmetz Equation." *Journal of Magnetism and Magnetic Materials* — First Author (SCI Q3, IF: 3.0). [📄 Paper](https://github.com/busyflag/Improved-equations-for-core-loss-prediction-under-asymmetric-triangular) | DOI: 10.1016/j.jmmm.2026.174052
 
 ### Patent
-3. **Wang Yue**, et al. "Profibus-DP Ultrasonic Flowmeter and Flow Calculation Method Based on Domestic Communication Chip" (Under Substantive Examination) — First Author
+3. **Yue Wang**, et al. "Profibus-DP Ultrasonic Flowmeter and Flow Calculation Method Based on Domestic Communication Chip" (Under Substantive Examination) — First Author
 
 ---
 
