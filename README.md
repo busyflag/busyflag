@@ -39,7 +39,7 @@
 - National IC Innovation & Entrepreneurship Contest — Third Prize
 - National Statistical Modeling Contest — Third Prize
 - National Optoelectronic Design Contest — Second Prize
-- Etc.
+- Etc
 
 ---
 
