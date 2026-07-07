@@ -61,6 +61,7 @@
 **AIIT, Peking University**  
 *Developer — Quadruped Robot Autonomous Navigation System*  
 *January – May 2026*
+**👉 [Go to the demo page](https://busyflag.github.io/Navigation-System-for-Quadruped-Robots/)**
 
 - Developed autonomous navigation system for quadruped robots enabling indoor/outdoor dynamic obstacle avoidance and global path planning
 
